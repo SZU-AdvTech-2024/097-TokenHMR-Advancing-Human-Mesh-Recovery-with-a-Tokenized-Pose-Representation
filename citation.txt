@@ -1,0 +1,7 @@
+@conference{REPO097,
+    author = "Dwivedi, Sai Kumar and Sun, Yu and Patel, Priyanka and Feng, Yao and Black, Michael J.",
+    booktitle = "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "March",
+    title = "{{TokenHMR}: Advancing Human Mesh Recovery with a Tokenized Pose Representation}",
+    year = "2024"
+}
